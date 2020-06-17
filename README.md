@@ -1,8 +1,5 @@
 # P314-17.06.2020 - Console App - Cinema
 
-
-Tapshiriq:
-
 Kinoteatr idare edilmesini yazmaq:
 
 Kenoteatr,Zal ve oturacaq obyektleri olmalidi.
